@@ -13,5 +13,5 @@ The video shows all you need to know, although, I've noted the steps from the vi
 5. Make a copy the "Home.html" file and rename it to "index.html". The capitalization may be important, write with lowercase to be safe. You should have both Home.html and index.html in the folder.
 6. Create a Github repository (a repository can be thought of as a workspace or a folder) named YourAccountName.github.io and make sure it is public (check the box in the settings). You may need to scroll to "Pages" in the settings of the repository (see video if unclear).
 7. Upload all files from the folder which you created "index.html" to your Github repository YourAccountName.github.io
-8. In this repository, your files will automatically be used by Github Pages to publish the website. The webpage will be accessable via https://YourAccountName.github.io. It may take some time to fully publish and it should take a maximum of 15 minutes according to my experience.
+8. In this repository, your files will automatically be used by Github Pages to publish the website. The webpage will be accessable via https://YourAccountName.github.io. It should take a maximum of 15 minutes according to my experience.
 9. Add your domain name (the text you write as the web adress) to the website with following the guide: https://www.youtube.com/watch?v=EX4w9hsduNA
