@@ -3,7 +3,7 @@
 
 
 Host your Google Site on Github Pages for free: https://www.youtube.com/watch?v=RIFZSLzYfFk
-The video shows all you need to know, although, I've noted the steps from the video here as a backup and for the sake of clarity:
+The video shows all you need to know, although, I've noted the steps from the video here as a backup and for the sake of simplicity:
 
 
 1. Create a folder (e.g WebsiteFolder or name it whatever you like) in Google Drive to contain your Google Site or move the site to this folder (Right-click>Organize>Move)
